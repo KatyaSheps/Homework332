@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Homework.3.3.2</string>
+    <string name="english_text">Hello World!</string>
+    <string name="russian_text">Привет, мир!</string>
     <string-array name="languages">
         <item>English</item>
         <item>Русский</item>
