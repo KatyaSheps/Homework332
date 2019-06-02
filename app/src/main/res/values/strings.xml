@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Homework.3.3.2</string>
-    <string name="english_text">Hello World!</string>
-    <string name="russian_text">Привет, мир!</string>
+    <string name="textView">Hello World!</string>
+    <string name="choose_language">Please, choose the language</string>
     <string-array name="languages">
         <item>English</item>
-        <item>Русский</item>
+        <item>Russian</item>
     </string-array>
 </resources>
